@@ -1,0 +1,2 @@
+def getSecrets(): 
+   return "abcbcbcbcbbc"
